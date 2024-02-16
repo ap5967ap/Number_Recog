@@ -25,5 +25,5 @@ Run script
   python ./num.py
 ```
 
-##Dataset
+## Dataset
 The Dataset is available [here](https://www.kaggle.com/competitions/digit-recognizer). I have also added [here](https://github.com/ap5967ap/Number_Recog/blob/main/train.csv) for convenience. 
