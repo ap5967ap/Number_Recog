@@ -6,3 +6,30 @@ A repository for recognizing digits using neural network built on this [kaggle d
 After 500 iterations using I got 83.8% as accuracy.
 
 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ap5967ap/Number_Recog.git
+```
+
+Go to the project directory
+
+```bash
+  cd Number_Recog
+```
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+
+Run script
+
+```bash
+  python ./num.py
+```
+
