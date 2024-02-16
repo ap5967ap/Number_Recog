@@ -1,1 +1,8 @@
-# Number_Recog
+
+## Digit_Recognition
+
+A repository for recognizing digits using neural network built on this [kaggle dataset.](https://www.kaggle.com/competitions/digit-recognizer/) The neural network takes multiple (42000 as in this dataset) 784 sized vectors as input. It using forward propagation creates a 10 sized first intermediate layer. It uses randomly assigned weights and biases of appropriate sizes to construct this first layer. Similar process is used to create the send layer which gives the predict number. Initially this accuracy is low as weights and biases are randomly assigned. It uses backpropagation to adjust these values.
+
+After 500 iterations using I got 83.8% as accuracy.
+
+
